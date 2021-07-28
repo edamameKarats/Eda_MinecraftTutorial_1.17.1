@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PPP",
+		"QQQ"
+	],
+	"key": {
+		"P": {
+			"item": "minecraft:oak_planks"
+		},
+		"Q": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "buildersmod:house_wood_chair",
+		"count": 1
+	}
+}

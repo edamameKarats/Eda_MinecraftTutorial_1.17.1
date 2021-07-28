@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=east": {"model": "buildersmod:block/dual_door_2x2_parts", "y": 90},
+    "facing=north": {"model": "buildersmod:block/dual_door_2x2_parts"},
+    "facing=south": {"model": "buildersmod:block/dual_door_2x2_parts", "y": 180},
+    "facing=west": {"model": "buildersmod:block/dual_door_2x2_parts", "y": 270}
+  }
+}

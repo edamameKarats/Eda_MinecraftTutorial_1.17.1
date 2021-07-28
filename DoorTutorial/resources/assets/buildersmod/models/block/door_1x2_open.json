@@ -1,0 +1,20 @@
+{
+	"textures": {
+		"0": "buildersmod:block/door_1x2",
+		"particle": "buildersmod:block/door_1x2"
+	},
+	"elements": [
+		{
+			"from": [15, 0, 0],
+			"to": [16, 32, 16],
+			"faces": {
+				"north": {"uv": [0, 0.47059, 0.47059, 15.52941], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0.47059, 0.47059, 8, 15.52941], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [8, 0.47059, 8.47059, 15.52941], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [8.47059, 0.47059, 16, 15.52941], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [8, 0, 15.52941, 0.47059], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0.47059, 0, 8, 0.47059], "rotation": 90, "texture": "#0"}
+			}
+		}
+	]
+}

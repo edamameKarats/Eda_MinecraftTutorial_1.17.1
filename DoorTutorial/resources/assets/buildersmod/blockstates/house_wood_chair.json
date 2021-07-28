@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "buildersmod:block/house_wood_chair", "y": 0 },
+		"facing=south": { "model": "buildersmod:block/house_wood_chair", "y": 180 },
+		"facing=east": { "model": "buildersmod:block/house_wood_chair" , "y": 90 },
+		"facing=west": { "model": "buildersmod:block/house_wood_chair", "y": 270}
+	}
+}
